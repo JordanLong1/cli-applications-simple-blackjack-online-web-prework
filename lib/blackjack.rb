@@ -58,4 +58,3 @@ def runner
   end
   end_game(initial_round)
 end
-runner
